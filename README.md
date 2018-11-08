@@ -2,6 +2,10 @@ Travis markdown
 
 [![Build Status](https://travis-ci.org/edunv/java-etherpad-lite.svg?branch=master)](https://travis-ci.org/edunv/java-etherpad-lite)
 
+Coverall markdown
+
+[![Coverage Status](https://coveralls.io/repos/github/edunv/java-etherpad-lite/badge.svg?branch=master)](https://coveralls.io/github/edunv/java-etherpad-lite?branch=master)
+
 Java Etherpad Lite Client
 =========================
 
