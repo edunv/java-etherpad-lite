@@ -1,3 +1,7 @@
+Travis markdown
+
+[![Build Status](https://travis-ci.org/edunv/java-etherpad-lite.svg?branch=master)](https://travis-ci.org/edunv/java-etherpad-lite)
+
 Java Etherpad Lite Client
 =========================
 
