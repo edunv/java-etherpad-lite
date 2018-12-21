@@ -4,9 +4,8 @@ Travis markdown
 
 Coverall markdown
 
-[![Coverage Status](https://coveralls.io/repos/github/edunv/java-etherpad-lite/badge.svg?branch=master)](https://coveralls.io/github/edunv/java-etherpad-lite?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/edunv/java-etherpad-lite/badge.svg)](https://coveralls.io/github/edunv/java-etherpad-lite)
 
-https://coveralls.io/repos/github/edunv/java-etherpad-lite/badge.svg(Coverage Status)!:https://coveralls.io/github/edunv/java-etherpad-lite
 
 Java Etherpad Lite Client
 =========================
