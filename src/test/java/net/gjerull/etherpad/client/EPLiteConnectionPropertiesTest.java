@@ -16,11 +16,11 @@ public class EPLiteConnectionPropertiesTest {
     private static final String ENCODING = "UTF-8";
 
     @Property
-    public void domain_with_trailing_slash_when_construction_an_api_path(String exampleMethod) throws Exception {
+    public void domain_without_trailing_slash_when_construction_an_api_path(String exampleMethod) throws Exception {
         EPLiteConnection connection = new EPLiteConnection(
                 "http://example.com/", "apikey", API_VERSION, ENCODING
         );
-        String apiMethodPath = connection.apiPath("exampleMethod");
+        String apiMethodPath = connection.apiPath(exampleMethod);
         assertEquals("/api/1.2.12/" + exampleMethod, apiMethodPath);
     }
     
