@@ -6,6 +6,8 @@ Coverall markdown
 
 [![Coverage Status](https://coveralls.io/repos/github/edunv/java-etherpad-lite/badge.svg?branch=master)](https://coveralls.io/github/edunv/java-etherpad-lite?branch=master)
 
+https://coveralls.io/repos/github/edunv/java-etherpad-lite/badge.svg(Coverage Status)!:https://coveralls.io/github/edunv/java-etherpad-lite
+
 Java Etherpad Lite Client
 =========================
 
