@@ -48,6 +48,7 @@ public class EPLiteClientIntegrationTest {
 		            .setLevel(ch.qos.logback.classic.Level.OFF);
 		mockServer = startClientAndServer(9001);
 		
+		
 		BasicEtmConfigurator.configure();
         monitor = EtmManager.getEtmMonitor();
         monitor.start();
