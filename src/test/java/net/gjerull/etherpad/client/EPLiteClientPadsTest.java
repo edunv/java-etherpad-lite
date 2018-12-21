@@ -4,7 +4,7 @@ import org.graphwalker.core.machine.ExecutionContext;
 import org.graphwalker.java.annotation.GraphWalker;
 
 @GraphWalker(value = "random(edge_coverage(100))", start = "setUp")
-public class EPLiteClientPadsTest extends ExecutionContext implements EPLiteClientPads {
+public class EPLiteClientPadsTest extends ExecutionContext {//implements EPLiteClientPads {
 
     public void setUp() {
         System.out.println("INICIALIZANDO");
